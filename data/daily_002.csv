@@ -1,0 +1,148 @@
+id,topic,level,english,chinese,pause_seconds
+1,daily,A1,Good morning! Did you sleep well?,早安！你昨晚睡得好嗎？,4
+2,daily,A1,"I slept really well, thanks for asking.",我睡得很好，謝謝關心。,4
+3,daily,A1,Are you ready to get the day started?,你準備好開始新的一天了嗎？,4
+4,daily,A1,Let me grab a cup of coffee first.,讓我先去拿杯咖啡。,4
+5,daily,A1,Nothing beats a fresh cup of coffee in the morning.,清晨沒有什麼比一杯新鮮咖啡更棒的了。,5
+6,daily,A2,What are your plans for today?,你今天有什麼計劃嗎？,4
+7,daily,A2,I have a couple of meetings this morning.,我今天上午有幾個會議。,4
+8,daily,B1,"I'll try to finish my tasks as early as possible.",我會儘快完成我的任務。,5
+9,daily,A2,Don't forget to take a break in between.,別忘了中間要休息一下。,4
+10,daily,A1,"Thanks, I'll keep that in mind.",謝謝，我會記在心上的。,4
+11,daily,A1,Are you free for lunch today?,你今天中午有空一起吃午餐嗎？,4
+12,daily,A1,That sounds like a great idea.,聽起來是個很棒的主意。,4
+13,daily,A2,Where would you like to go?,你想去哪裡吃？,4
+14,daily,A2,There is a new Italian restaurant nearby.,附近開了一家新的義大利餐廳。,4
+15,daily,B1,I've heard really good reviews about their pasta.,我聽說他們的義大利麵評價很好。,5
+16,daily,A1,What time should we meet?,我們幾點見面？,4
+17,daily,A1,How about noon at the main entrance?,中午十二點在大門口見面怎麼樣？,5
+18,daily,A2,"Perfect, see you there at twelve.",太好了，十二點那裡見。,4
+19,daily,B1,"If anything comes up, just text me.",如果有什麼突發狀況，傳訊息給我就好。,5
+20,daily,A1,Will do! See you soon.,好的！一會兒見。,4
+21,daily,A1,It's so nice to take a break.,能休息一下真好。,4
+22,daily,A2,What do you recommend from the menu?,菜單上有什麼推薦的嗎？,4
+23,daily,B1,The chef's special is always a solid choice.,主廚特餐通常是不錯的選擇。,5
+24,daily,A1,I think I will go with that.,我想我就點那個吧。,4
+25,daily,A2,Would you like to share a dessert?,你想一起吃個甜點嗎？,4
+26,daily,A1,I'm actually quite full already.,其實我已經很飽了。,4
+27,daily,A2,Maybe just some hot tea then.,那或許喝點熱茶吧。,4
+28,daily,A1,"Excuse me, could we get the check, please?",不好意思，麻煩結帳。,4
+29,daily,A2,Let's split the bill evenly.,我們平分帳單吧。,4
+30,daily,B1,"No, it's my treat today, next time is on you.",不，今天我請客，下次換你。,5
+31,daily,A2,Do you have a moment to talk?,你有空聊聊嗎？,4
+32,daily,A1,"Sure, what's on your mind?",當然，你有什麼事嗎？,4
+33,daily,A2,I need your input on this project.,我需要你對這個專案提出一些意見。,5
+34,daily,B1,Could you give me a brief summary first?,你能先給我做個簡短的總結嗎？,5
+35,daily,A2,We need to hit the deadline by Friday.,我們需要在星期五之前完成。,4
+36,daily,B1,That deadline seems a bit tight to me.,那個期限對我來說有點緊迫。,5
+37,daily,A2,Is there any way we can postpone it?,有辦法延後嗎？,4
+38,daily,B1,"I'll double check with the manager.",我會再跟經理確認一下。,4
+39,daily,A1,That makes a lot of sense.,這很有道理。,4
+40,daily,A2,I appreciate your help with this.,非常感謝你在這件事上的幫忙。,4
+41,daily,B1,I couldn't have done it without you.,沒有你我肯定做不到。,5
+42,daily,A1,Teamwork makes the dream work!,團隊合作才能實現目標！,4
+43,daily,A2,Let's keep each other updated.,我們隨時保持更新進度。,4
+44,daily,A1,"I'll send you an email with details.",我會寄一封包含細節的郵件給你。,5
+45,daily,A1,"Sounds good, looking forward to it.",好的，期待你的來信。,4
+46,daily,A2,Could you clarify what you mean by that?,你能澄清一下你的意思嗎？,5
+47,daily,A1,"Sorry, I didn't mean to confuse you.",抱歉，我不是故意讓你困惑的。,5
+48,daily,A2,Let me explain it in another way.,讓我用另一種方式解釋吧。,4
+49,daily,B1,"Ah, I see what you mean now.",啊，我現在明白你的意思了。,4
+50,daily,A2,That's actually a very good point.,這確實是個非常好的觀點。,5
+51,daily,B1,I hadn't thought of it that way.,我之前沒從這個角度想過。,5
+52,daily,A2,What should we do if things go wrong?,如果出錯了我們該怎麼辦？,5
+53,daily,B1,We should always have a backup plan.,我們應該總是要有備用方案。,5
+54,daily,A1,Better safe than sorry.,小心駛得萬年船 / 安全起見。,4
+55,daily,A1,I completely agree with you.,我完全同意你的看法。,4
+56,daily,A1,How is your afternoon going?,你下午過得怎麼樣？,4
+57,daily,A2,"It's been pretty busy, to be honest.",老實說，一直挺忙的。,4
+58,daily,A2,I need to recharge my energy.,我需要補充一下精力。,4
+59,daily,A1,How about taking a short walk outside?,去外面散散步怎麼樣？,5
+60,daily,A2,The weather is lovely today.,今天的天氣非常好。,4
+61,daily,A1,A bit of fresh air will do us good.,呼吸點新鮮空氣對我們有好處。,5
+62,daily,A2,I feel much better now.,我現在感覺好多了。,4
+63,daily,A1,Time flies when you're busy.,忙碌的時候時間過得真快。,4
+64,daily,A2,It's almost time to wrap up.,快到收工的時間了。,4
+65,daily,A1,Let's finish the remaining tasks tomorrow.,我們明天再完成剩餘的工作吧。,5
+66,daily,A1,Are you heading home now?,你現在要回家了嗎？,4
+67,daily,A2,"Yes, I'm packing up my things.",是的，我正在收拾東西。,4
+68,daily,A1,Do you have any plans for tonight?,你今晚有什麼打算嗎？,4
+69,daily,A2,I'm just going to relax at home.,我只想在家好好放鬆。,4
+70,daily,B1,Maybe watch a movie or read a book.,也許看部電影或讀本書。,4
+71,daily,A2,That sounds like a relaxing evening.,那聽起來是個放鬆的夜晚。,4
+72,daily,A1,Have a good rest tonight.,今晚好好休息。,4
+73,daily,A1,"You too! Take it easy.",你也是！放輕鬆。,4
+74,daily,A1,See you tomorrow morning.,明天早上見。,4
+75,daily,A1,Have a great evening!,祝你有個愉快的夜晚！,4
+76,daily,A1,Are you free this weekend?,你這個週末有空嗎？,4
+77,daily,A2,I don't have any specific plans yet.,我目前還沒有具體的計劃。,5
+78,daily,B1,I'm thinking of going on a road trip.,我正在考慮去自駕遊。,5
+79,daily,A2,That sounds super exciting!,聽起來超級令人興奮！,4
+80,daily,A2,Who are you going with?,你要跟誰一起去？,4
+81,daily,A2,Just a few close friends.,就幾個好朋友。,4
+82,daily,B1,How long will the drive take?,車程需要多長時間？,4
+83,daily,A2,It should take around two hours.,大概需要兩個小時左右。,4
+84,daily,A2,Make sure to check the traffic report.,記得要查看路況報導。,4
+85,daily,B1,Thanks for reminding me.,謝謝你提醒我。,4
+86,daily,A2,Don't forget to take plenty of photos.,別忘了多拍些照片。,5
+87,daily,A1,I definitely will!,我一定會的！,4
+88,daily,B1,I'm really looking forward to it.,我真的非常期待。,4
+89,daily,A1,Have a safe trip and enjoy your time!,祝你旅途平安，玩得開心！,5
+90,daily,A1,"Thanks! I'll tell you all about it later.",謝謝！我之後再跟你分享。,5
+91,daily,A1,I need to stop by the grocery store.,我需要順路去趟雜貨店/超市。,5
+92,daily,A1,"Do you need anything while I'm there?",我去的時候你需要買什麼嗎？,5
+93,daily,A2,Could you pick up some milk and eggs?,你能幫我買些牛奶和雞蛋嗎？,5
+94,daily,A1,"Sure, no problem at all.",沒問題，完全沒問題。,4
+95,daily,A2,Is there anything else on the list?,清單上還有其他東西嗎？,4
+96,daily,A2,That should be everything for now.,目前應該就這些了。,4
+97,daily,B1,Let me write it down so I don't forget.,我寫下來，這樣就不會忘了。,5
+98,daily,A2,"By the way, do they accept credit cards?",順便問一下，他們接受信用卡嗎？,5
+99,daily,A1,"Yes, they accept all major cards.",是的，他們接受所有主要的信用卡。,5
+100,daily,A2,That's very convenient.,那真的很方便。,4
+101,daily,B1,How much does all of this cost?,這些一共要多少錢？,4
+102,daily,A2,It comes to twenty dollars in total.,總共是二十美元。,4
+103,daily,A1,Here is your change.,這是找你的零錢。,4
+104,daily,A1,Thank you for your help.,謝謝你的幫忙。,4
+105,daily,A1,You're very welcome!,別客氣！,4
+106,daily,A1,How are you feeling today?,你今天感覺怎麼樣？,4
+107,daily,A2,I'm feeling a bit tired today.,我今天感覺有點累。,4
+108,daily,A2,Did you get enough sleep last night?,你昨晚睡眠充足嗎？,5
+109,daily,B1,"Not really, I stayed up late studying.",不太夠，我昨晚熬夜唸書了。,5
+110,daily,A2,You should try to go to bed earlier.,你應該盡量早點睡覺。,4
+111,daily,B1,"I know, but I had so much to finish.",我知道，但我有太多事情要完成了。,5
+112,daily,A2,Health always comes first.,健康永遠是第一位的。,4
+113,daily,A1,"Take your time, no rush at all.",慢慢來，完全不用著急。,4
+114,daily,A2,"If you feel unwell, take the day off.",如果你覺得不舒服，就請假休息吧。,5
+115,daily,B1,Thanks for your concern.,謝謝你的關心。,4
+116,daily,A2,Drink plenty of water today.,今天多喝點水。,4
+117,daily,A1,I hope you feel better soon.,希望你很快好起來。,4
+118,daily,A1,Let me know if you need anything.,如果你需要什麼，隨時告訴我。,5
+119,daily,A2,"I will, thanks again.",我會的，再次感謝。,4
+120,daily,A1,Take good care of yourself.,好好照顧自己。,4
+121,daily,A2,I haven't seen you in a long time.,好久沒見到你了。,4
+122,daily,A1,I know! Long time no see.,我知道！真的好久不見。,4
+123,daily,A2,We should definitely catch up soon.,我們真該找時間聚聚聊聊了。,5
+124,daily,B1,How about having coffee sometime next week?,下週找時間一起喝杯咖啡怎麼樣？,5
+125,daily,A2,What day works best for you?,哪一天對你最方便？,4
+126,daily,B1,Thursday afternoon suits me well.,星期四下午對我很合適。,4
+127,daily,A2,Let me check my calendar.,讓我看一下我的行事曆。,4
+128,daily,A2,Let me double check that for you.,讓我幫你再仔細確認一下。,4
+129,daily,A1,Thursday afternoon looks clear for me.,星期四下午我看起來有空。,5
+130,daily,A2,"Great, let's pencil it in.",太好了，那我們先初步排定。,4
+131,daily,B1,I'll send you a calendar invite.,我會寄行事曆邀請給你。,4
+132,daily,A1,Let's definitely keep in touch.,我們一定要保持聯絡喔。,4
+133,daily,A1,Call me if there are any changes.,如果有任何變動，打電話給我。,5
+134,daily,A1,"I'll do that. Talk to you soon!",我會的。過陣子再聊！,4
+135,daily,A1,Have a wonderful rest of your day!,祝你今天接下來都過得愉快！,4
+136,daily,A1,Thank you for taking the time to meet.,感謝你抽空見面。,5
+137,daily,A2,It was a pleasure talking to you.,很高興能與你交談。,4
+138,daily,B1,I appreciate your valuable insights.,感謝你寶貴的見解。,4
+139,daily,A2,I learned a lot from our conversation.,從我們的對話中我學到了很多。,5
+140,daily,A1,I'm glad to hear that.,聽到你這麼說我很高興。,4
+141,daily,B1,Your feedback is extremely helpful.,你的回饋非常有幫助。,4
+142,daily,A2,Always happy to help whenever I can.,隨時樂意盡我所能提供協助。,5
+143,daily,A1,You've been so kind and helpful.,你一直這麼友善且熱心。,4
+144,daily,A2,It's no big deal at all.,這沒什麼大不了的。,4
+145,daily,B1,Let's work together again in the future.,希望我們未來能再次合作。,5
+146,daily,A2,I would really love that.,我非常期待。,4
+147,daily,A1,All the best with your upcoming project!,祝你接下來的專案一切順利,4
